@@ -12,7 +12,7 @@ const MemoryManager = {
     pageTableEntries: [],
 
     // Segmentation specific settings
-    // segmentTable: [],
+    segmentTable: [],
 
     // State
     blocks: [],
