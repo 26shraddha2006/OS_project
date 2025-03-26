@@ -1,7 +1,7 @@
 
-// Memory Management Utilities
+//
 const MemoryManager = {
-    // Configuration
+    // Configuration Memory Management Utilities
     totalMemory: 1024, // in KB
     blockSize: 64,     // in KB
     algorithm: 'firstFit',
