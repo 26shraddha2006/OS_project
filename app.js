@@ -1,3 +1,17 @@
+// DOM Elements
+const totalMemoryInput = document.getElementById('totalMemory');
+const blockSizeInput = document.getElementById('blockSize');
+const blockSizeLabel = document.getElementById('blockSizeLabel');
+const blockSizeTooltip = document.getElementById('blockSizeTooltip');
+const algorithmSelect = document.getElementById('algorithm');
+const initMemoryBtn = document.getElementById('initMemory');
+const processSizeInput = document.getElementById('processSize');
+const addProcessBtn = document.getElementById('addProcess');
+const randomProcessesBtn = document.getElementById('randomProcesses');
+const memoryGrid = document.getElementById('memoryGrid');
+const processList = document.getElementById('processList');
+const pageSegmentSettings = document.getElementById('pageSegmentSettings');
+const processSegmentForm = document.getElementById('processSegmentForm');
 
 // Memory type buttons
 const contiguousBtn = document.getElementById('contiguousBtn');
