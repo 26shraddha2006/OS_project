@@ -13,6 +13,9 @@ const processList = document.getElementById('processList');
 const pageSegmentSettings = document.getElementById('pageSegmentSettings');
 const processSegmentForm = document.getElementById('processSegmentForm');
 
+// DOM Elements
+
+
 // Memory type buttons
 const contiguousBtn = document.getElementById('contiguousBtn');
 const pagingBtn = document.getElementById('pagingBtn');
