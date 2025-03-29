@@ -1,3 +1,4 @@
+
 const totalMemoryInput = document.getElementById('totalMemory');
 const blockSizeInput = document.getElementById('blockSize');
 const blockSizeLabel = document.getElementById('blockSizeLabel');
