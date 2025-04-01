@@ -8,8 +8,8 @@ const MemoryManager = {
     memoryType: 'contiguous', // 'contiguous', 'paging', or 'segmentation'
 
     // Paging specific settings
-    pageSize: 16,      // in KB
-    pageTableEntries: [],
+    // pageSize: 16,      // in KB
+    // pageTableEntries: [],
 
     // Segmentation specific settings
     segmentTable: [],
