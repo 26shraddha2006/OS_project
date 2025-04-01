@@ -15,9 +15,9 @@ const MemoryManager = {
     segmentTable: [],
 
     // State
-    blocks: [],
-    processes: [],
-    currentPage: 1,
+    // blocks: [],
+    // processes: [],
+    // currentPage: 1,
     itemsPerPage: 20,
 
     // Initialize memory blocks
